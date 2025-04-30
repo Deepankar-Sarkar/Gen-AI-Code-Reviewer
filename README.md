@@ -83,20 +83,7 @@ Apply Changes: Manually apply suggested changes or use the one-click fix feature
 
 
 ## 🛠️ Project Structure
-code-review/
-├── backend/                  # Node.js + Express.js server
-│   ├── config/               # Database configuration
-│   ├── controllers/          # API route handlers
-│   ├── models/               # MongoDB schemas
-│   ├── routes/               # API routes
-│   ├── middleware/           # Authentication and error handling
-│   └── .env                  # Environment variables
-├── frontend/                 # React frontend
-│   ├── src/                  # React components, pages, and utilities
-│   ├── public/               # Static assets
-│   └── .env                  # Frontend environment variables
-├── README.md                 # Project documentation
-└── package.json              # Project metadata and scripts
+![image](https://github.com/user-attachments/assets/b1122da2-a1ac-415a-a56a-9a24bdeacaab)
 
 ## 🤝 Contributing
 Contributions are welcome! To contribute:
