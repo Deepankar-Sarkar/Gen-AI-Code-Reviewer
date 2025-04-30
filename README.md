@@ -36,8 +36,8 @@ Follow these steps to set up and run the project locally:
 2. Install Dependencies
 Install the dependencies for both the backend and frontend.
 Backend:
-cd backend
-npm install
+'''cd backend
+'''npm install
 
 Frontend:
 cd ../frontend
