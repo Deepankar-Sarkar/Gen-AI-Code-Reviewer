@@ -36,34 +36,42 @@ Follow these steps to set up and run the project locally:
 2. Install Dependencies
 Install the dependencies for both the backend and frontend.
 Backend:
-('''cd backend
-npm install)
+ ```
+cd backend
+npm install
+```
 
 Frontend:
+ ```
 cd ../frontend
 npm install
-
+ ```
 3. Configure Environment Variables
 Create a .env file in the backend directory and add the following:
 
+ ```
 GEMINI_API_KEY=your_google_gemini_api_key
-
+ ```
 Create a .env file in the frontend directory (if needed) for frontend-specific configurations, such as API base URL:
+ ```
 REACT_APP_API_URL=http://localhost:5000/api
-
+ ```
 4. Run the Application
 Start the backend and frontend servers in separate terminal windows.
 Backend:
+ ```
 cd backend
 npm start
-
+ ```
 Frontend:
+ ```
 cd frontend
 npm start
+ ```
 
-The backend will run on http://localhost:5000, and the frontend will run on http://localhost:3000.
+The backend will run on  ```http://localhost:5000  ```, and the frontend will run on  ```http://localhost:3000. ```
 5. Access the Application
-Open your browser and navigate to http://localhost:3000 to start using the AI-Powered Code Reviewer.
+Open your browser and navigate to  ```http://localhost:3000 ``` to start using the AI-Powered Code Reviewer.
 
 ## 📖 Usage
 
