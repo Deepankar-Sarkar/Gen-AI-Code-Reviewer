@@ -83,7 +83,7 @@ Apply Changes: Manually apply suggested changes or use the one-click fix feature
 
 
 ## 🛠️ Project Structure
-![image](https://github.com/user-attachments/assets/b1122da2-a1ac-415a-a56a-9a24bdeacaab)
+![image](https://github.com/user-attachments/assets/84ddfd99-35be-4863-a4c2-d02889f80e5d)
 
 ## 🤝 Contributing
 Contributions are welcome! To contribute:
