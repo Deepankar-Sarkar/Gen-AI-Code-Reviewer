@@ -3,6 +3,9 @@
 AI-Powered Code Reviewer
 Welcome to the AI-Powered Code Reviewer, a cutting-edge application built using the MERN Stack (Express.js, React, Node.js) and integrated with the latest Google Gemini API to provide intelligent code analysis, review, and improvement suggestions. This tool aims to enhance development efficiency by automating code reviews and offering actionable feedback to developers. 🚀
 
+![image](https://github.com/user-attachments/assets/308ed1cd-b549-4029-9a42-7f0252ac9295)
+
+
 ## 🌟 Features
 
 AI-Driven Code Analysis: Leverages Google Gemini API to analyze code for syntax errors, logical flaws, and performance issues.
